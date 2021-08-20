@@ -8,23 +8,23 @@ namespace Portfolio
         // localhost:5000
         [Route("")]
         [HttpGet]
-        public ViewResult HelloFromController()
+        public IActionResult Index()
         {
-            return View("Index");
+            return View();
         }
 
         // localhost:5000/projects
         [HttpGet("projects")]
-        public string Project()
+        public IActionResult Project()
         {
-            return "These are my projects";
+            return View("Project");
         }
 
         // localhost:5000/contact
         [HttpGet("contact")]
-        public string Contact()
+        public IActionResult Contact()
         {
-            return "This is my Contact!";
+            return View("Contact");
         }
     }
 }

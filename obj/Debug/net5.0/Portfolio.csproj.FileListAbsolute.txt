@@ -32,3 +32,5 @@ C:\Users\beaton\OneDrive - pfsweb.com\Desktop\codingDojo\untracked_csharp\Portfo
 C:\Users\beaton\OneDrive - pfsweb.com\Desktop\codingDojo\untracked_csharp\Portfolio\obj\Debug\net5.0\Portfolio.RazorTargetAssemblyInfo.cs
 C:\Users\beaton\OneDrive - pfsweb.com\Desktop\codingDojo\untracked_csharp\Portfolio\obj\Debug\net5.0\Portfolio.Views.pdb
 C:\Users\beaton\OneDrive - pfsweb.com\Desktop\codingDojo\untracked_csharp\Portfolio\obj\Debug\net5.0\Portfolio.csproj.CopyComplete
+C:\Users\beaton\OneDrive - pfsweb.com\Desktop\codingDojo\untracked_csharp\Portfolio\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\beaton\OneDrive - pfsweb.com\Desktop\codingDojo\untracked_csharp\Portfolio\obj\Debug\net5.0\Razor\Views\Home\Project.cshtml.g.cs

@@ -15622,6 +15622,16 @@
       "FilePath": "c:\\Users\\beaton\\OneDrive - pfsweb.com\\Desktop\\codingDojo\\untracked_csharp\\Portfolio\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\beaton\\OneDrive - pfsweb.com\\Desktop\\codingDojo\\untracked_csharp\\Portfolio\\Views\\Home\\Project.cshtml",
+      "TargetPath": "Views\\Home\\Project.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\beaton\\OneDrive - pfsweb.com\\Desktop\\codingDojo\\untracked_csharp\\Portfolio\\Views\\Home\\Contact.cshtml",
+      "TargetPath": "Views\\Home\\Contact.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
